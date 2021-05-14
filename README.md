@@ -1,1 +1,1 @@
-# HTML-CSS-basit-d-zeyde-site
+# HTML-CSS-basit-düzeyde-site
